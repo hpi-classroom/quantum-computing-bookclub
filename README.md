@@ -13,8 +13,9 @@ This extracurricular activity is conducted in a hybrid format. We meet be-weekly
 
 - Session 0: Introduction, Scope and Goals
 - Session 1: Overview IBM experience, Bell-Cirquit (Qiskit Textbook: Sections until 1.2)
+- Session 2: Some Gates in Detail (Qiskit Textbook: Sections until 2.2)
 
-- Next Session (2022-06-13): Some Gates in Detail (Qiskit Textbook: Sections until 2.2)
+- Next Session (2022-06-27): Some more Gates in Detail (Qiskit Textbook: Sections until 2.2)
 
 
 ## This Repository
